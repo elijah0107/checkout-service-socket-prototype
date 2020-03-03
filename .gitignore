@@ -1,0 +1,6 @@
+/server/yarn-error.log
+/socket-client/yarn-error.log
+/server/node_modules
+/socket-client/node_modules
+.idea
+npm-debug.log
